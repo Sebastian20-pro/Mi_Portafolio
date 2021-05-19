@@ -1014,6 +1014,10 @@ button:hover{
     .contenido-slider h2{
         font-size: 23px;
     }
+
+    .img > img{
+        width: 300px;
+    }
 }
 
 
@@ -1024,6 +1028,11 @@ button:hover{
 
     .contenido-slider > div{
         width: 80%;
+    }
+
+    .img > img{
+        width: 250px;
+        margin-top: 30px;
     }
 
 }
